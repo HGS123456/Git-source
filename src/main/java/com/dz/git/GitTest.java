@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("Git Test1");
         System.out.println("Git Test1");
         System.out.println("master 1.0 version");
+        System.out.println("hot-fix 1.0 version");
     }
 }
