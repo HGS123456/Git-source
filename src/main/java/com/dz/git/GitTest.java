@@ -15,6 +15,6 @@ public class GitTest {
         System.out.println("hot-fix 1.0 version");
         System.out.println("push  1.0 version");
         System.out.println("pull  1.0 version");
-        
+         System.out.println("gitee导入GitHub测试");
     }
 }
